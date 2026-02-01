@@ -2,8 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=rishit2904&label=Profile%20views&color=008080&style=flat" alt="rishit2904" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rishit Mathur</h1>
-<h3 align="center">Car Tech Enthusiast | EV & Automotive Innovation | MIT Manipal</h3>
+<!-- Custom Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Rishit%20Mathur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Car%20Tech%20Enthusiast%20|%20EV%20%26%20Automotive%20Innovation%20|%20MIT%20Manipal&descSize=18&descAlignY=55&descAlign=50" alt="Header" style="width:100%;"/>
+</div>
 
 <br>
 
@@ -73,3 +75,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rishit2904&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" alt="Footer" style="width:100%;"/>
