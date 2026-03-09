@@ -4,7 +4,7 @@
 
 <!-- Custom Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Rishit%20Mathur&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Car%20Tech%20Enthusiast%20|%20EV%20%26%20Automotive%20Innovation%20|%20MIT%20Manipal&amp;descSize=18&amp;descAlignY=55&amp;descAlign=50" alt="Header" style="width:100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Rishit%20Mathur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Car%20Tech%20Enthusiast%20|%20EV%20%26%20Automotive%20Innovation%20|%20MIT%20Manipal&descSize=18&descAlignY=55&descAlign=50" alt="Header" style="width:100%;"/>
 </div>
 
 <br>
@@ -59,22 +59,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishit2904&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishit2904&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishit2904&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishit2904&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishit2904&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishit2904&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
   <!-- The github-profile-trophy public instance is currently paused. Uncomment and replace with your own Vercel instance if you deploy it. -->
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=rishit2904&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7" alt="Trophy" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=rishit2904&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" /> -->
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=100&amp;section=footer" alt="Footer" style="width:100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" alt="Footer" style="width:100%;"/>
